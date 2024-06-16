@@ -1,2 +1,5 @@
-# R-Data-Analysis
-Works on R Language for educational purpose
+
+# Introduction to Tidyverse
+
+This is a walkthrough of the Tidyverse library in R language used for data analysis. 
+
